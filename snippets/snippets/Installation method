@@ -1,0 +1,12 @@
+⚡ Installation Instructions
+
+After uploading the file:
+
+Enter product.liquid
+or
+main-product.liquid (depending on the theme)
+
+Look at the end of the file before </body> and place:
+
+
+{% render 'sticky-add-to-cart' %}
